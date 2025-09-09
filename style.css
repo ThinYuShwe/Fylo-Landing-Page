@@ -88,6 +88,7 @@ img {
   background-repeat: no-repeat;
   background-position: 50%;
   height: 30rem;
+  gap: 1rem;
   background-size: cover;
 }
 
@@ -196,7 +197,7 @@ button:hover {
   flex-direction: column;
   padding: 8rem;
   gap: 1.5rem;
-  padding-bottom: 18rem;
+  padding-bottom: 22rem;
   /* margin-bottom: 10rem; */
   background-color: var(--navy900MainBackground);
 }
